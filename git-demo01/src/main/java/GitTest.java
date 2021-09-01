@@ -21,5 +21,7 @@ public class GitTest {
         System.out.println("of course you are");
         System.out.println("fuxx");
         System.out.println("shxt");
+        System.out.println("shxt");
+        System.out.println("shxt");
     }
 }
