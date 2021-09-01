@@ -20,8 +20,11 @@ public class GitTest {
         System.out.println("jack");
         System.out.println("of course you are");
         System.out.println("fuxx");
-        System.out.println("shxt");
-        System.out.println("shxt");
-        System.out.println("shxt");
+        System.out.println("xxx");
+        System.out.println("xxx");
+        System.out.println("xxxx");
+        System.out.println("xxxx");
+        System.out.println("xxxx");
+        System.out.println("xxxx");
     }
 }
