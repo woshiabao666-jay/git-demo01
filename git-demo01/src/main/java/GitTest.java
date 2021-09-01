@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("hello gitee");
         System.out.println("hello world");
         System.out.println("of course you are");
+        System.out.println("fuxx");
     }
 }
